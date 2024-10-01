@@ -1,2 +1,1 @@
-# PrepCorarse-Henry
-Este es un repositorio del modulo2 del prepcurse Henry
+este proyecto es una prueba de un repositorio del modulo 2 y clonarlo 
